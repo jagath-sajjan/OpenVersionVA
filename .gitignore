@@ -1,1 +1,14 @@
-yolov8n.pt
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+
+# PyTorch model weights
+*.pt
+
+# Misc
+.DS_Store
